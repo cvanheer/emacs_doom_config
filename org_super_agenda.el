@@ -1,4 +1,4 @@
- (use-package! org-super-agenda
+(use-package! org-super-agenda
   :after org-agenda
   :init
   (setq org-agenda-skip-scheduled-if-done t
@@ -18,6 +18,8 @@
                              :effort< "0:30")
                             (:name "TODAY"
                              :date today
+                             :scheduled today
+                             :deadline today
                              :order 1)
                             (:name "WORK GENERAL TASKS"                                                              
                              :file-path "~/WORK/DIARY/WORK.org"

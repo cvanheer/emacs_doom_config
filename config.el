@@ -34,10 +34,10 @@
 ;; There are two ways to load a theme. Both assume the theme is installed and
 ;; available. You can either set `doom-theme' or manually load a theme with the
 ;; `load-theme' function. This is the default:
-(setq doom-theme 'doom-vibrant)
+;(setq doom-theme 'doom-vibrant)
 ;(setq doom-theme 'doom-acario-light)
 ;(setq doom-theme 'doom-fairy-floss)
-;(setq doom-theme 'doom-solarized-light)
+(setq doom-theme 'doom-nova)
 ;(setq doom-theme 'doom-spacegrey)
 ;(setq doom-theme 'doom-wilmersdorf)
 
