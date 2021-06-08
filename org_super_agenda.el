@@ -51,9 +51,12 @@
                             (:name "SCHEDULED SOON"
                              :scheduled future           
                              :order 11)
+                            (:name "PERSONAL ADMIN"
+                             :file-path "~/PhD/PROJECTS/DIARY/personal_diary.org"
+                             :order 12)
                             (:name "MEETING"
                              :and (:todo "MEETING" :scheduled future)
-                             :order 12)
+                             :order 13)
                                                         ;(:discard (:not (:todo "TODO")))
                             ))))))))
   :config

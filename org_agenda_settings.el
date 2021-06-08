@@ -1,6 +1,7 @@
 ;;   ORG AGENDA SETTINGS
 (after! org (setq org-agenda-files (list "~/PhD/PROJECTS/DIARY/PhD_diary.org" ; phd diary / meetings
                                          "~/PhD/PROJECTS/DIARY/PhD_work.org" ; phd todos
+                                         "~/PhD/PROJECTS/DIARY/personal_diary.org" ; personal admin
                                          "~/WORK/DIARY/WORK.org" ; work project notes
                                          "~/WORK/1.PROJECTS/3.Azure_Deops/COVID19%20-%20Modeling%20and%20Analytics/screening_protocol_gp/1.Project_Management/DIARY.org"))) ; nfi what this is
 
