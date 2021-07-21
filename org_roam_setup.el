@@ -3,7 +3,7 @@
 ;;
 ;; https://rgoswami.me/posts/org-note-workflow/
 ;; You dont need to do all setup here because you have doom emacs
-(setq org-roam-directory "~/PhD/PROJECTS/DIARY/Notes/papers/")
+(setq org-roam-directory "~/org-roam-notes/")
 
 ; This get org working with org-roam
 ; ;; org-roam-bibtex stuff

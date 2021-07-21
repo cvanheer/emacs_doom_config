@@ -1,7 +1,7 @@
 ;; org-noter stuff
 (after! org-noter
     (setq
-          org-noter-notes-search-path '("~/PhD/PROJECTS/DIARY/Notes/papers/")
+          org-noter-notes-search-path '("~/org-roam-notes/")
           org-noter-hide-other nil
           org-noter-notes-window-location 'other-frame
           org-noter-separate-notes-from-heading t

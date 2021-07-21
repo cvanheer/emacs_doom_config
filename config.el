@@ -92,8 +92,8 @@
 (load "~/.doom.d/org_agenda_settings.el")
 (load "~/.doom.d/org_capture.el")
 ;(load "~/.doom.d/org_gcal_settings.el")
-
-(require 'magit)
+;
+;`'(require 'magit)
 
 ;;; browser settings
 ;`'(setq browse-url-browser-function 'eww-browse-url)
